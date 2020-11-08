@@ -1,0 +1,11 @@
+section{/*1*/
+    background-color: lightblue;
+}
+
+h1 {/*2*/
+    color: white;
+    /*font-family: sans-serif;*/
+    /*https://fonts.google.com/specimen/Anton?query=anto&sidebar.open=true&selection.family=Anton#glyphs*/
+    font-family: 'Anton', sans-serif;
+
+}
